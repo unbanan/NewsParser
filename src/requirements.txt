@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pendulum
+psycopg2-binary
+asyncpg
+python-dotenv
+python-telegram-bot
+apache-airflow
