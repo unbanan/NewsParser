@@ -1,3 +1,4 @@
 XMLS
 airflow
 .vscode
+.pgpass
